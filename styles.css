@@ -106,10 +106,12 @@ padding-bottom: 30px;
 
     width: 80%;
     height: 90%;
+    transition: 0.3s ease-in-out;
 
 
     
 }
+#inicio-img img:hover {transform: rotate(-6deg); }
 
 #descripcion {
 
